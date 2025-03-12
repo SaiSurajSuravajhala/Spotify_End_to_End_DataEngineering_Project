@@ -11,7 +11,7 @@
 #### By implementing this Spotify data pipeline on AWS, the project aims to provide a scalable, reliable, and automated solution for extracting, transforming, and analyzing Spotify data, unlocking valuable insights for various analytical purposes.
 
 ### Architecture :
-![Architecture](https://github.com/On-car/spotify-end-to-end-data-engineering--project/blob/main/Project%20Archicture.png)
+![Architecture](https://github.com/SaiSurajSuravajhala/Spotify_End_to_End_DataEngineering_Project/blob/main/Project%20Archicture.png)
 
 ### Services Used:
 **The project utilizes the following AWS services:**
